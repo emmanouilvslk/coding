@@ -1,0 +1,76 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+*.elf
+
+# Log files
+*.log
+
+# Node Modules
+node_modules/
+
+# Python virtual environments
+venv/
+*.pyc
+
+# Java class files
+*.class
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# OS generated files
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# Visual Studio Code folders
+.vscode/
+
+# JetBrains IDEs (IntelliJ, PyCharm, etc.)
+.idea/
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# Temporary files
+*.swp
+*~
+._*
+
+# Environment files
+.env

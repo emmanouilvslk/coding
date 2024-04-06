@@ -4,7 +4,6 @@ extern  printf, scanf
 section .data
     outFormat db  "It's %s", 0x0a, 0x00
     message db "Aligned!", 0x0a
-    inFormat db "%d", 0x00
 
 section .text
 _start:

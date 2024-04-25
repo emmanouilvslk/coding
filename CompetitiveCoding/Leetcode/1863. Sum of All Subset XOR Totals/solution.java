@@ -1,6 +1,6 @@
 class Solution {
     public int subsetXORSum(int[] nums) {
-        
+       //bitmask 
         int subsetTotalLength = 1 << nums.length;
         int sum = 0;
         

@@ -1,5 +1,21 @@
-# coding
+# Coding & Security Challenges
 
-Programming Languages used: Assembly, C, C++, Java, JavaScript, Python
+- **Algorithmic Challenges**  
+  Solutions to coding problems focused on data structures, algorithms, and efficient problem solving techniques.
 
-Algorithms and solutions to improve problem solving.
+- **Cybersecurity & CTF Challenges**  
+  Write-ups and solutions from Capture The Flag (CTF), covering topics such as:
+    - Reverse Engineering
+    - Binary Exploitation
+    - Cryptography
+    - Web Security
+    - Forensics
+
+## Programming Languages
+
+- Assembly
+- C / C++
+- Java
+- JavaScript
+- Python
+- Go
